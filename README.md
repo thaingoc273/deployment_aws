@@ -1,1 +1,2 @@
-# deployment_aws
+# Deployment Spring Application with AWS
+[Deploy a Java Spring Boot Application with Docker and AWS](https://medium.com/@lucaraveri993/deploying-a-simple-java-spring-boot-application-with-docker-and-aws-ec2-a-detailed-step-by-step-4a7801ad7674)
