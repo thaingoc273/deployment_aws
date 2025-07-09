@@ -53,6 +53,7 @@ kubectl get svc
 ```
 
 🚀 Summary cheat sheet
+
 ✅ Deploy your ECR image to EKS
 
 ```
@@ -67,4 +68,11 @@ kubectl apply -f service.yaml
 kubectl get deployments
 kubectl get pods
 kubectl get svc
+```
+
+### Delete eks cluster
+
+```
+eksctl delete cluster --name YOUR_CLUSTER_NAME
+
 ```
