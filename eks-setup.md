@@ -13,10 +13,10 @@ Docker image (in ECR) → Kubernetes Deployment in EKS → Exposed via Service /
 🛠 Step 1: Ensure EKS cluster & kubectl set up
 If you don’t have your cluster & config yet, run:
 
-bash
-Copy
-Edit
-eksctl create cluster --name my-cluster --region us-west-2
+``
+eksctl create cluster --name my-cluster --region eu-central-1
+``
+
 Or use AWS Console → EKS → Create cluster.
 
 Then configure kubectl:
